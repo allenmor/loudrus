@@ -4,7 +4,7 @@ import './NavBar.css'
 
 function NavBar() {
   return (
-    <div className='navbar-container'>
+    <div style={{['background-image']:[` url(${logo})`]}} className='navbar-container'>
 
     </div>
   )
