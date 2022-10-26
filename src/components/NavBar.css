@@ -1,19 +1,51 @@
 .navbar-container {
+    display: flex;
+    border: 4px solid rgb(41,154,89);
+    height: 10rem;
+    justify-content: center;
+    margin-top: 1rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
 }
 
-.logo {
-    width: 100%;
-    height: 35vh;
+.bud-logo {
+    width: 6rem;
+    height: 5rem;
 }
+.logo-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(41,154,89);
+}
+
+.logo-text h1 {
+    margin-bottom: 0;
+}
+
+.est {
+    font-size: 0.5rem;
+}
+.number {
+    font-weight: bold;
+    color: rgb(41,154,89);
+
+}
+
 
 @media(max-width: 500px) {
     .navbar-container {
+        width: 60%;
+        height: 7rem;
+        border-radius: 5px;
+        margin-left: auto;
+        margin-right: auto;
     }
-
-    .logo {
-        width: 100%;
+    .logo-text h1 {
+        font-size: 1rem;
     }
-    .navbar-container h1 {
-        color: red;
+    .bud-logo {
+        width: 3rem;
+        height: 2.5rem;
     }
 }
