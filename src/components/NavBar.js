@@ -9,7 +9,7 @@ function NavBar() {
       <div className='logo-text'>
       <h1>! LOUD 'R' US !</h1>
       <p className='est'>EST. 2022</p>
-      <a href='tel:9293495777'><p className='number'>646-883-0663</p></a>
+      <a href='tel:9293495777'><p className='number'>929-349-5777</p></a>
       </div>
       <img className='bud-logo'src={bud}/>
     </div>
