@@ -6,6 +6,9 @@
     margin-top: 1rem;
     border-radius: 5px;
     margin-bottom: 1rem;
+    top: 0;
+    position: sticky;
+    background-color: white;
 }
 
 .bud-logo {
