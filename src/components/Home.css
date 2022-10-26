@@ -11,3 +11,21 @@
     border-right: 1px solid rgb(41,154,89);
     padding: 1rem;
 }
+.each-text-div {
+    margin-left: auto;
+    margin-right: auto;
+}
+.each-name {
+    text-align: center;
+    font-weight: bold;
+}
+
+.each-description {
+    font-size: 0.8rem;
+}
+.each-min {
+    font-size: 0.8rem;
+}
+.each-retail {
+    font-size: 0.8rem;
+}

@@ -5,8 +5,9 @@ function HomeCard({bud}) {
   return (
     <div className='each-item-container'>
         <img className='each-image' src={bud.image}/>
-        <div>
+        <div className='each-text-div'>
         <p className='each-name'>{bud.name}</p>
+        <p className='each-description'>{bud.description}</p>
         <p className='each-min'>{bud.min}</p>
         <p className='each-retail'>{bud.retail}</p>
         </div>
