@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Pre-Rolls",
+        "image": "https://industrialhempfarms.com/wp-content/uploads/2019/06/hemp-pre-rolls-for-sale-min-scaled.jpeg",
+        "description": "High Quality Flower Prerolls from $5",
+        "min": "min order 50 pcs,",
+        "retail": "Suggested Retail from $10 and up"
+    },
+    {
+        "name": "Stiiizy Disposables",
+        "image": "https://storage.googleapis.com/sonorous-summer-268403.appspot.com/stiiizy-original_d1b3cd6c6f/stiiizy-original_stiiizy-original_d1b3cd6c6f.jpeg",
+        "description": "Original Stllizy Disposables ½ Gram",
+        "min": "Variety from $35 min order 20 pcs",
+        "retail": "Suggested Retail from $50"
+    },
+    {
+        "name": "Battery Pen",
+        "image": "https://www.greenworlddistro.com/wp-content/uploads/2021/08/53513-G1-Ooze-Twist-Slim-Pen-Variable-Voltage-Vape-Battery-320-Small-Group-Front-Fan__69559.1606154278.jpg",
+        "description": "Original Vape Pen Battery $5",
+        "min": "min order 30 pcs",
+        "retail": "Suggested Retail from $10"
+    },
+    {
+        "name": "Baby Jeeter",
+        "image": "https://images.weedmaps.com/photos/products/000/351/688/original/461592_Baby-Bubba-Gum.jpg",
+        "description": "Variety of Infused Churros Pre-Rolls - 5 pcs/pack $30",
+        "min": "min order 20 pcs",
+        "retail": "Suggested Retail from $50"
+    }
+]
