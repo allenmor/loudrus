@@ -26,5 +26,26 @@
         "description": "Variety of Infused Churros Pre-Rolls - 5 pcs/pack $30",
         "min": "min order 20 pcs",
         "retail": "Suggested Retail from $50"
+    },
+    {
+        "name": "Ice Cream Cake Bag",
+        "image": "https://cdn11.bigcommerce.com/s-u3ck3i7dtl/images/stencil/2048x2048/products/400/4035/unnamed_2__87595_1369__32521.1662791816.jpg?c=2",
+        "description": "1/8 oz (3.5 g) - Premium Flower",
+        "min": "min order 10 pcs",
+        "retail": "Suggested Retail from $30 and up"
+    },
+    {
+        "name": "BackPackBoyz Bag",
+        "image": "https://calipacks.co.uk/wp-content/uploads/2022/09/Backpack-Boys-33-Front-2.jpg",
+        "description": "1/8 oz (3.5 g) - Premium Flower",
+        "min": "min order 10 pcs",
+        "retail": "Suggested Retail from $30 and up"
+    },
+    {
+        "name": "Ice Cream Cake Bag",
+        "image": "https://cdn.shopify.com/s/files/1/0569/7686/7520/products/BAGBOYZICECREAMCAKEFRONTFINAL_800x.png?v=1634093318",
+        "description": "1/8 oz (3.5 g) - Premium Flower",
+        "min": "min order 10 pcs",
+        "retail": "Suggested Retail from $30 and up"
     }
 ]
