@@ -47,5 +47,54 @@
         "description": "1/8 oz (3.5 g) - Premium Flower",
         "min": "min order 10 pcs",
         "retail": "Suggested Retail from $30 and up"
+    },
+    {
+        "name": "Jungle Cake Bag",
+        "image": "http://cdn.shopify.com/s/files/1/0569/7686/7520/products/BAGBOYZJUNGLECAKEFRONTFINAL.png?v=1634091806",
+        "description": "1/8 oz (3.5 g) - Premium Flower",
+        "min": "min order 10 pcs",
+        "retail": "Suggested Retail from $30 and up"
+    },
+    {
+        "name": "BackPackBoyz Bag",
+        "image": "https://cdn.shopify.com/s/files/1/0569/7686/7520/products/BAGBOYZICECREAMCAKEFRONTFINAL_800x.png?v=1634093318",
+        "description": "1/8 oz (3.5 g) - Premium Flower",
+        "min": "min order 10 pcs",
+        "retail": "Suggested Retail from $30 and up"
+    },
+    {
+        "name": "Cookies N Cream Bag",
+        "image": "https://cdn.shopify.com/s/files/1/0569/7686/7520/products/BAGBOYZCOOKIESNCREAMFRONTFINAL_800x.png?v=1634059129",
+        "description": "1/8 oz (3.5 g) - Premium Flower",
+        "min": "min order 10 pcs",
+        "retail": "Suggested Retail from $40 and up"
+    },
+    {
+        "name": "LemonChello Bag",
+        "image": "https://www.vapes-wholesale.com/media/catalog/product/cache/1/image/1200x/08823df065f69ea642bc00c95e220f36/c/o/cookies_california_lemonchello_tang_cray_cake_mix_lemonnade_spider_gelatti_grenadine_bags_6_.jpg",
+        "description": "1/8 oz (3.5 g) - Premium Flower",
+        "min": "min order 10 pcs",
+        "retail": "Suggested Retail from $40 and up"
+    },
+    {
+        "name": "Russian Cream Bag",
+        "image": "https://www.dhresource.com/0x0/f2/albu/g18/M00/90/48/rBNaNmEyvPKAVTjKAAJDqGwjS4I059.jpg",
+        "description": "1/8 oz (3.5 g) - Premium Flower",
+        "min": "min order 10 pcs",
+        "retail": "Suggested Retail from $40 and up"
+    },
+    {
+        "name": "NASUH Bag",
+        "image": "https://i0.wp.com/loud420labels.com/wp-content/uploads/2022/06/Jokes-Up-Personal-Nasuh-Die-Cut-Bag-front-rotated.jpg?fit=1536%2C1614&ssl=1",
+        "description": "1/8 oz (3.5 g) - Premium Flower",
+        "min": "min order 10 pcs",
+        "retail": "Suggested Retail from $40 and up"
+    },
+    {
+        "name": "Banana MILK Bag",
+        "image": "https://www.ubuy.com.ru/productimg/?image=aHR0cHM6Ly9pLmViYXlpbWcuY29tL2ltYWdlcy9nL2w5TUFBT1N3S01KaDVlYlIvcy1sNTAwLmpwZw.jpg",
+        "description": "1/8 oz (3.5 g) - Premium Flower",
+        "min": "min order 10 pcs,",
+        "retail": "Suggested Retail from $40 and up"
     }
 ]
